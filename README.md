@@ -1,23 +1,22 @@
 # MOTIVAÇÃO
 
-### Quantos Brasileiros são considerados pobres?
+### How many brazilians are considered poor?
+More than fifty million, says the brazilian Applied Economics Research Institute (IPEA). The Ministry of Planning's institute lauched this year the Social Radar 2005, a research aiming to understand the regular brazilian income level, based on data from IBGE, the Brazilian Institute of Geography and Statistics. The result shows that 53.9 million brazilians live in poverty. This is 31.7% the country's population. And in this number there's even more worrysome data: from this total, 21.9 million people are indigent. (Mundo Estranho, Aug/2016)
 
-Mais de 50 milhões, segundo o Instituto de Pesquisa Econômica Aplicada (IPEA). O órgão do Ministério do Planejamento lançou este ano o Radar Social 2005, uma pesquisa para saber o nível de renda do brasileiro, com base em dados do Instituto Brasileiro de Geografia e Estatística (IBGE). O resultado mostra que 53,9 milhões de brasileiros vivem na pobreza. Isso corresponde a 31,7% da população do país. E dentro desse número existe um dado ainda mais preocupante: do total, 21,9 milhões de pessoas são indigentes. Revista Mundo Estranho, Ago/2016
+After four years of decrease, the percentage of families living with less than 1/4 of the minimum wage per capita increased to 9.2% after 8% in 2014 (G1, Dec/2016)
 
-Após quatro anos de queda, percentual de famílias que vivem com menos de 1/4 de salário mínimo per capita sobe para 9,2%, contra 8% em 2014. G1, Dezembro de 2016
+I know, almost no one have it easy. But, for many of us, it's basically impossible. We hope the government takes responsibility for those cases, but the government can be irresponsible.
 
-Eu sei, não tá fácil pra ninguém. Mas, pra muita gente, tá praticamente impossível. A gente espera que o Governo tome responsabilidade por estes casos, mas o Governo é irresponsável.
+These numbers are people. People that live in inhuman conditions. People that you do not see, because they are not on Facebook, or on WhatsApp.
 
-São pessoas. Gente que vive em situações que não podem ser consideradas humanas. Gente que você não vê porque não tá no Facebook ou no WhatsApp.
+These are not people that can't afford to go out this weekend, or can't buy nutella, because money is a little tight. These are people that can't buy plain rice. These are people that do not have a stove to cook this rice. These are people that have no shower, no electricity.
 
-Não é gente que não pode ir na balada esse fim de semana, ou não pode comprar um pote de nutella, porque tá apertada. É gente que não pode pagar por um saco de arroz. É gente que não tem um lugar pra cozinhar o arroz. É gente que não tem chuveiro.
+These are people waiting for a miracle, because life – and us, the society – has not left any other alternative for them.
 
-É gente que tá à espera de um milagre, porque a vida – e a gente, a sociedade – não deixou outra alternativa pra ela.
+The miracle does not have to come from our governments. The miracle does not have to come from one (or more) divine forces. You can be a part of this miracle.
 
-O Milagre não precisa vir do Governo. O Milagre não precisa vir de uma (ou mais) força(s) divina(s). Você pode fazer parte deste Milagre.
+# What is The Miracle?
 
-# O QUE É O MILAGRE?
-O Milagre é uma plataforma que te permite saber quem são as pessoas que mais precisam de ajuda na sua região, e te permite colaborar com elas das seguintes formas:
-
-* Doando materiais, serviços (ou dinheiro, num momento futuro, porque dinheiro é sempre complicado, mas parece a forma mais efetiva/rápida de colaborar);
-* Dando oportunidades de formação ou emprego;
+The miracle is a platform that shows the people in need in your whereabouts, and makes it easy for you to help them:
+- Donating materials, services (and money, in the future. It is usually tricky to deal with money, but it seems like the easier way to collaborate);
+- Giving them job or learning opportunities;
